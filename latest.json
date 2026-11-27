@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.22",
+ "version": "v2026.11.27.23",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.22.tar.gz",
- "sha256": "3651a0bd942728f5ace80a8d67f3dc0991a34396b951a61c46affda209462d4c",
- "size": 151892,
- "notes": "中转站：另一台设备存的东西 3 秒内就出现，切回页面立刻刷新；不看中转站时不刷新。",
+ "package": "packages/v2026.11.27.23.tar.gz",
+ "sha256": "130653139c2adc668d486dfb3f92f32aab68df29e3f886554d04da08a733b141",
+ "size": 151900,
+ "notes": "「系统升级」改名「系统设置」，路由器与密码、帮助与联系也挪到这里。",
  "published": "2026-11-27",
  "mirrors": []
 }
