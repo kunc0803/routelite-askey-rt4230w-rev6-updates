@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.16",
+ "version": "v2026.11.27.17",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.16.tar.gz",
- "sha256": "c663d8bb53278192bd809680dab9799fe017069f3ba61d841d9dbf3c5db6e1b4",
- "size": 141856,
- "notes": "保险箱：忘了密码要答对密保问题才能找回，能登录路由器也不能直接重设；密码或答案连续错 5 次要等 10 分钟。",
+ "package": "packages/v2026.11.27.17.tar.gz",
+ "sha256": "75366f4d603de641bb90796762598cfba38e8c2b8a4e9370185b28ae8d472981",
+ "size": 142101,
+ "notes": "保险箱：没设密保问题时会提醒你设一个；相册、中转站、保险箱提醒使用正规品牌 U 盘。",
  "published": "2026-11-27",
  "mirrors": []
 }
