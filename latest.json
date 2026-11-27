@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.21",
+ "version": "v2026.11.27.22",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.21.tar.gz",
- "sha256": "3087bf9edd19274db37d55b75fbc76dd8c7a409b5be826205e25eb1a383971aa",
- "size": 151555,
- "notes": "保险箱：说明改短；设密码和密保答案时提醒用复杂、别人猜不到的。",
+ "package": "packages/v2026.11.27.22.tar.gz",
+ "sha256": "3651a0bd942728f5ace80a8d67f3dc0991a34396b951a61c46affda209462d4c",
+ "size": 151892,
+ "notes": "中转站：另一台设备存的东西 3 秒内就出现，切回页面立刻刷新；不看中转站时不刷新。",
  "published": "2026-11-27",
  "mirrors": []
 }
