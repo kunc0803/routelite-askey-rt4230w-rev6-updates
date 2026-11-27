@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.18",
+ "version": "v2026.11.27.19",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.18.tar.gz",
- "sha256": "195c944e607f1007e20fc05c41c4deebd90795e876da24bf2999867325af8f01",
- "size": 142340,
- "notes": "面板：线路、家宽、网站分流、检查设置、说明收进「VPN 设置」，放在智能家居前面。",
+ "package": "packages/v2026.11.27.19.tar.gz",
+ "sha256": "00f1bb912b1ef20e2b9a11eccecb57d1e7dfa4966976764baf96b14ee12814d4",
+ "size": 150959,
+ "notes": "保险箱加密：内容在手机上加密后才存进 U 盘，U 盘被拿走也看不了；路由器坏了可在电脑上用 U 盘里的「打开保险箱.html」打开。系统升级单独一个入口。",
  "published": "2026-11-27",
  "mirrors": []
 }
