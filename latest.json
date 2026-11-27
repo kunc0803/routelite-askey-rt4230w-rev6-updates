@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.2",
+ "version": "v2026.11.27.3",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.2.tar.gz",
- "sha256": "ff1f00d717990887af82d3ec0db20449c70e50ce4bca5d0c93f2f79c0a0620c7",
- "size": 129175,
- "notes": "修复「电脑访问相册」连不上；只共享相册文件夹，不再自动共享整个 U 盘。",
+ "package": "packages/v2026.11.27.3.tar.gz",
+ "sha256": "6c3b47f6233317252d3d8b8090d8a92a70c9091545751d44080b2b5022588087",
+ "size": 133069,
+ "notes": "新增「中转站」：手机和电脑之间传文字、传文件，在外面也能用；远程访问加了 Tailscale 使用说明。",
  "published": "2026-11-27",
  "mirrors": []
 }
