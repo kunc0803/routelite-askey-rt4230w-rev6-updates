@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.11",
+ "version": "v2026.11.27.12",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.11.tar.gz",
- "sha256": "b85b638d8247653f3d76d40cb9f9208f0ff06bcdcf82786da316ccfb7d07ffcb",
- "size": 135041,
- "notes": "远程访问：修好防火墙把手机挡在外面的问题，在外面能打开面板了。",
+ "package": "packages/v2026.11.27.12.tar.gz",
+ "sha256": "f9601575932fef54122149dab56354e59d129d6a5c9e6864328a263d1e5f9ec7",
+ "size": 135789,
+ "notes": "远程访问：路由器的 WAN 口在远程访问开着时会拿一个 IPv6 地址，手机在外面用流量时能直连回家，更快。家里设备仍只用 IPv4、全部走代理，不会泄漏。",
  "published": "2026-11-27",
  "mirrors": []
 }
