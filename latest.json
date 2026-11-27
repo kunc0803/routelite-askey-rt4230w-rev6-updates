@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.13",
+ "version": "v2026.11.27.14",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.13.tar.gz",
- "sha256": "e0d46850efd5d1e6dd1f3347df99a3414f82e475a0a23a894e38678a1a90b56d",
- "size": 136392,
- "notes": "没插 U 盘时，相册和中转站会提示先插 U 盘，不会把东西存进路由器自己的存储。",
+ "package": "packages/v2026.11.27.14.tar.gz",
+ "sha256": "cb2ec61709521a6830d8f5c9c4ba67bea2f892067fba12d0daba36d9f938b09e",
+ "size": 141085,
+ "notes": "新增「保险箱」：放助记词、密钥、证件照片，要单独的密码才能打开，15 分钟没操作自动锁上。修好远程访问用 IPv6 直连时打不开的问题。",
  "published": "2026-11-27",
  "mirrors": []
 }
