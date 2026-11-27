@@ -1,0 +1,10 @@
+{
+ "version": "v2026.11.26.6",
+ "board": "askey,rt4230w-rev6",
+ "package": "packages/v2026.11.26.6.tar.gz",
+ "sha256": "e94b4d008533d2db5fe38b8fa72e782ff2d1e96f39cf7c6b109d4ec696e95313",
+ "size": 123477,
+ "notes": "Askey RT4230W REV6 第一个在线升级：独立的升级通道和签名密钥。",
+ "published": "2026-11-27",
+ "mirrors": []
+}
