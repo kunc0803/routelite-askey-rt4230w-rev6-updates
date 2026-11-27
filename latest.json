@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.15",
+ "version": "v2026.11.27.16",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.15.tar.gz",
- "sha256": "1442bffb1fd53738e33aaf6b564680ef005beb2419cc458b229c2ab423628936",
- "size": 140521,
- "notes": "远程访问改回原来的方式（经香港中转），关掉 IPv6 直连。其他功能不变。",
+ "package": "packages/v2026.11.27.16.tar.gz",
+ "sha256": "c663d8bb53278192bd809680dab9799fe017069f3ba61d841d9dbf3c5db6e1b4",
+ "size": 141856,
+ "notes": "保险箱：忘了密码要答对密保问题才能找回，能登录路由器也不能直接重设；密码或答案连续错 5 次要等 10 分钟。",
  "published": "2026-11-27",
  "mirrors": []
 }
