@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.24",
+ "version": "v2026.11.27.25",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.24.tar.gz",
- "sha256": "70a1ce8f385f6d77171d26aa81e2c1cb5e828fe3702f46609da39aaa13f164f3",
- "size": 154542,
- "notes": "第一次登录会提醒把面板放到手机桌面或电脑书签，按你的设备和浏览器给出步骤；系统设置里也能随时查看。",
+ "package": "packages/v2026.11.27.25.tar.gz",
+ "sha256": "74e6361b48686ee7edefe7a09cf695857012cb3f6973ffeec092a67dbf3b8a3b",
+ "size": 154546,
+ "notes": "「VPN 设置」改名为「网络设置」。",
  "published": "2026-11-27",
  "mirrors": []
 }
