@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.5",
+ "version": "v2026.11.27.6",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.5.tar.gz",
- "sha256": "b481b53cf9b31a150d65241ad62ac1ac30b0ab4ce0cdc1c6ef39b34ab73f11d0",
- "size": 133163,
- "notes": "修复自检误报「设置记录已自动修复」。",
+ "package": "packages/v2026.11.27.6.tar.gz",
+ "sha256": "59e4298712cf896ca5a2ac26fbe1638bb8c7d8b716d487318eba8d8994ed9379",
+ "size": 133292,
+ "notes": "说明里加了：安卓 17 手机打不开面板时，给浏览器开「本地网络」权限。",
  "published": "2026-11-27",
  "mirrors": []
 }
