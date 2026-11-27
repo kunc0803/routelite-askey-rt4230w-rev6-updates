@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.20",
+ "version": "v2026.11.27.21",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.20.tar.gz",
- "sha256": "1e1e88c132d22ffc5bf8dc94693e6eb205c6afdb114060345d25f8edbcb151f3",
- "size": 151449,
- "notes": "保险箱：写清楚路由器坏了时，U 盘插到电脑上怎么打开。",
+ "package": "packages/v2026.11.27.21.tar.gz",
+ "sha256": "3087bf9edd19274db37d55b75fbc76dd8c7a409b5be826205e25eb1a383971aa",
+ "size": 151555,
+ "notes": "保险箱：说明改短；设密码和密保答案时提醒用复杂、别人猜不到的。",
  "published": "2026-11-27",
  "mirrors": []
 }
