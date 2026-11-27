@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.4",
+ "version": "v2026.11.27.5",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.4.tar.gz",
- "sha256": "26aca18cffd5475c5b1b12d3bed20106ea87c4bc32f6a8a02c29f5130eda01d2",
- "size": 133072,
- "notes": "修复中转站打不开。",
+ "package": "packages/v2026.11.27.5.tar.gz",
+ "sha256": "b481b53cf9b31a150d65241ad62ac1ac30b0ab4ce0cdc1c6ef39b34ab73f11d0",
+ "size": 133163,
+ "notes": "修复自检误报「设置记录已自动修复」。",
  "published": "2026-11-27",
  "mirrors": []
 }
