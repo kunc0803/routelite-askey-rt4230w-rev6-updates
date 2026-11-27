@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.10",
+ "version": "v2026.11.27.11",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.10.tar.gz",
- "sha256": "883cb9ef394af25135fa597a044fb183743a9228ffebe2a99af8dfce6ef7b5d1",
- "size": 134815,
- "notes": "远程访问修好了：在外面用 Tailscale 能打开面板了，连接也更快（不再绕国外中转）。",
+ "package": "packages/v2026.11.27.11.tar.gz",
+ "sha256": "b85b638d8247653f3d76d40cb9f9208f0ff06bcdcf82786da316ccfb7d07ffcb",
+ "size": 135041,
+ "notes": "远程访问：修好防火墙把手机挡在外面的问题，在外面能打开面板了。",
  "published": "2026-11-27",
  "mirrors": []
 }
