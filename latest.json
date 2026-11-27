@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.9",
+ "version": "v2026.11.27.10",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.9.tar.gz",
- "sha256": "5aefe999354d6aef7df13040816dd39e3b83166d023fb7fd57ffca902182b008",
- "size": 134393,
- "notes": "相册可以删除文件夹了。",
+ "package": "packages/v2026.11.27.10.tar.gz",
+ "sha256": "883cb9ef394af25135fa597a044fb183743a9228ffebe2a99af8dfce6ef7b5d1",
+ "size": 134815,
+ "notes": "远程访问修好了：在外面用 Tailscale 能打开面板了，连接也更快（不再绕国外中转）。",
  "published": "2026-11-27",
  "mirrors": []
 }
