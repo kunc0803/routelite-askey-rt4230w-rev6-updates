@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.26.7",
+ "version": "v2026.11.27.1",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.26.7.tar.gz",
- "sha256": "d6a580a39b8cd7e8ad264181e2170507512a8b69e54ab437d9956ed2a1953e17",
- "size": 123463,
- "notes": "智能家居和访客 Wi-Fi 回来了：独立网段、不走代理、和主网隔离。",
+ "package": "packages/v2026.11.27.1.tar.gz",
+ "sha256": "924190b0d8d7d468e354ddd7bc341605bd1db54f9abe5323eebecf5c65be7690",
+ "size": 128948,
+ "notes": "新增「电脑访问相册」和「远程访问」（Tailscale），默认关闭，在面板里打开。",
  "published": "2026-11-27",
  "mirrors": []
 }
