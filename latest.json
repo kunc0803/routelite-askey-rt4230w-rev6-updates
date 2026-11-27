@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.7",
+ "version": "v2026.11.27.8",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.7.tar.gz",
- "sha256": "93631cba1e4869e227f3249a997a66bc9274f73bb47ba21d0d5f5743ce1b571e",
- "size": 133879,
- "notes": "修复 iPhone 一次选很多照片后点「添加」没反应；上传原图，不再转码。",
+ "package": "packages/v2026.11.27.8.tar.gz",
+ "sha256": "d87fbad952405f3e7ba138ba75a0b1c248c89d7d547340b60545881571df2923",
+ "size": 134148,
+ "notes": "修复「电脑访问」被手机 App 占满连接后连不上。",
  "published": "2026-11-27",
  "mirrors": []
 }
