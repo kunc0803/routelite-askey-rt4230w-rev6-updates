@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.23",
+ "version": "v2026.11.27.24",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.23.tar.gz",
- "sha256": "130653139c2adc668d486dfb3f92f32aab68df29e3f886554d04da08a733b141",
- "size": 151900,
- "notes": "「系统升级」改名「系统设置」，路由器与密码、帮助与联系也挪到这里。",
+ "package": "packages/v2026.11.27.24.tar.gz",
+ "sha256": "70a1ce8f385f6d77171d26aa81e2c1cb5e828fe3702f46609da39aaa13f164f3",
+ "size": 154542,
+ "notes": "第一次登录会提醒把面板放到手机桌面或电脑书签，按你的设备和浏览器给出步骤；系统设置里也能随时查看。",
  "published": "2026-11-27",
  "mirrors": []
 }
