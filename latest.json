@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.6",
+ "version": "v2026.11.27.7",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.6.tar.gz",
- "sha256": "59e4298712cf896ca5a2ac26fbe1638bb8c7d8b716d487318eba8d8994ed9379",
- "size": 133292,
- "notes": "说明里加了：安卓 17 手机打不开面板时，给浏览器开「本地网络」权限。",
+ "package": "packages/v2026.11.27.7.tar.gz",
+ "sha256": "93631cba1e4869e227f3249a997a66bc9274f73bb47ba21d0d5f5743ce1b571e",
+ "size": 133879,
+ "notes": "修复 iPhone 一次选很多照片后点「添加」没反应；上传原图，不再转码。",
  "published": "2026-11-27",
  "mirrors": []
 }
