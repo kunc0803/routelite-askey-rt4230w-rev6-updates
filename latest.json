@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.3",
+ "version": "v2026.11.27.4",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.3.tar.gz",
- "sha256": "6c3b47f6233317252d3d8b8090d8a92a70c9091545751d44080b2b5022588087",
- "size": 133069,
- "notes": "新增「中转站」：手机和电脑之间传文字、传文件，在外面也能用；远程访问加了 Tailscale 使用说明。",
+ "package": "packages/v2026.11.27.4.tar.gz",
+ "sha256": "26aca18cffd5475c5b1b12d3bed20106ea87c4bc32f6a8a02c29f5130eda01d2",
+ "size": 133072,
+ "notes": "修复中转站打不开。",
  "published": "2026-11-27",
  "mirrors": []
 }
