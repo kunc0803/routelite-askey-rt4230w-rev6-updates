@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.8",
+ "version": "v2026.11.27.9",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.8.tar.gz",
- "sha256": "d87fbad952405f3e7ba138ba75a0b1c248c89d7d547340b60545881571df2923",
- "size": 134148,
- "notes": "修复「电脑访问」被手机 App 占满连接后连不上。",
+ "package": "packages/v2026.11.27.9.tar.gz",
+ "sha256": "5aefe999354d6aef7df13040816dd39e3b83166d023fb7fd57ffca902182b008",
+ "size": 134393,
+ "notes": "相册可以删除文件夹了。",
  "published": "2026-11-27",
  "mirrors": []
 }
