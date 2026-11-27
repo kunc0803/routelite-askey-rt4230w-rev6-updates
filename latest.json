@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.27.12",
+ "version": "v2026.11.27.13",
  "board": "askey,rt4230w-rev6",
- "package": "packages/v2026.11.27.12.tar.gz",
- "sha256": "f9601575932fef54122149dab56354e59d129d6a5c9e6864328a263d1e5f9ec7",
- "size": 135789,
- "notes": "远程访问：路由器的 WAN 口在远程访问开着时会拿一个 IPv6 地址，手机在外面用流量时能直连回家，更快。家里设备仍只用 IPv4、全部走代理，不会泄漏。",
+ "package": "packages/v2026.11.27.13.tar.gz",
+ "sha256": "e0d46850efd5d1e6dd1f3347df99a3414f82e475a0a23a894e38678a1a90b56d",
+ "size": 136392,
+ "notes": "没插 U 盘时，相册和中转站会提示先插 U 盘，不会把东西存进路由器自己的存储。",
  "published": "2026-11-27",
  "mirrors": []
 }
